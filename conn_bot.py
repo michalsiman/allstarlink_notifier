@@ -7,8 +7,8 @@
 # for automatic usage with AllStarLink you need
 # edit /etc/asterisk/rpt.conf
 # and add there command like
-# connpgm = python3 </full/path/to>/aslnotify/conn_bot.py 1
-# discpgm = python3 </full/path/to>/aslnotify/conn_bot.py 0
+# connpgm = python3 </full/path/to>/conn_bot.py 1
+# discpgm = python3 </full/path/to>/conn_bot.py 0
 #
 
 
